@@ -4,9 +4,9 @@ Is a simple Laravel Job Listing Platform Written using only Blade and tailwind C
 
 ## Implementation
 
--Route Model Binding.
--User Policies.
--Relationships.
--Authentication.
--Authorization.
--Blade Components.
+-   Route Model Binding
+-   User Policies
+-   Relationships
+-   Authentication
+-   Authorization
+-   Blade Components.
