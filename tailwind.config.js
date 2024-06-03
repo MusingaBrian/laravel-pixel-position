@@ -5,7 +5,11 @@ export default {
     "./resources/**/*.js",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontSize: {
+        "2xs": ".625rem", //10px
+      }
+    },
   },
   plugins: [],
 }
