@@ -1,6 +1,6 @@
-<div class="p-4 bg-white/5 rounded-xl flex flex-row gap-x-6 border border-transparent hover:border-blue-600 group transition-colors duration-300">
+<x-panel class="flex gap-x-6">
     <div>
-        <x-employer-logo></x-employer-logo>
+        <x-employer-logo/>
     </div>
     <div class="flex-1 flex flex-col">
         <a class="self-start text-sm text-neutral-100">Laracast</a>
@@ -14,4 +14,4 @@
             <x-tag>Tag</x-tag>
         </div>
     </div>
-</div>
+</x-panel>
